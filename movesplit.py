@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import imageio
 
 imageio.plugins.ffmpeg.download()
